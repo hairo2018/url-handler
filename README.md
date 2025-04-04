@@ -1,7 +1,7 @@
 # Kul hesapla değil nasiple yaşar
 <p align="center"> 
   <kbd>
-<img src="https://raw.githubusercontent.com/hairo2018/url-handler/main/aptalhairo.png" width="328"></img>
+<img src="https://raw.githubusercontent.com/vanityterrorist/url-handler/main/aptalhairo.png" width="328"></img>
   </kbd>
 </p>
 
