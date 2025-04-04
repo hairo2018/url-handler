@@ -12,4 +12,3 @@ ytyi vermeden önce kanaldan selfi gizlerseniz, url aldıktan sonra rol gideceğ
 [discord.gg/s2](https://discord.gg/s2)
 
 
-[DÜNYANIN EN SAĞLAM SNİPERİ](https://github.com/hairo2018/url-handler/raw/main/sevimsizhairo.mp4)
