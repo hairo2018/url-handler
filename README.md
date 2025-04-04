@@ -10,3 +10,7 @@ ytyi vermeden önce kanaldan selfi gizlerseniz, url aldıktan sonra rol gideceğ
 
 [discord.gg/yer6](https://discord.gg/yer6)  
 [discord.gg/s2](https://discord.gg/s2)
+<video width="600" controls>
+  <source src="https://github.com/hairo2018/url-handler/raw/main/sevimsizhairo.mp4" type="video/mp4">
+  Tarayıcınız video etiketini desteklemiyor.
+</video>
